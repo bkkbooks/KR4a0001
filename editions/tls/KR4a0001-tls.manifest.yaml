@@ -1,0 +1,240 @@
+canonical_identifier: bkk:krp/KR4a0001/tls/v1
+canonical_location: https://kanripo.org/bkk/KR4a0001/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楚辭
+  identifiers:
+    krp: KR4a0001
+  tags:
+    kr-categories: KR4a
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    - tr-fr
+    - tr-zh
+    - tr-de
+    - tr-ru
+    tls-dates: dat05100
+  source:
+    repository: tls-texts
+    path: data/tls/KR4a0001.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR4a0001_001-tls.yaml, hash: 'sha256:851c3e6830cc202dfdb1452f2adc87424aa8a8a930b67b519ed79faa06673919'}
+  - {seq: 2, filename: KR4a0001_002-tls.yaml, hash: 'sha256:a1624d3dd152198b6e99707a9eea9bbdd3bca680c9db72e49031d5b3fdc337da'}
+  - {seq: 3, filename: KR4a0001_003-tls.yaml, hash: 'sha256:4fb5aa3c7e4f4ac8f7c6bab25541d7360120542f6b9f25797e3c9c977c49bac0'}
+  - {seq: 4, filename: KR4a0001_004-tls.yaml, hash: 'sha256:0a9c8c68b33ffaa2b3a5595ecb7d82281445d69f728219568551904e0434d842'}
+  - {seq: 5, filename: KR4a0001_005-tls.yaml, hash: 'sha256:cb4ead611dc68d83545ea0741e607d9d2b022ba14afdc3f74c1426d8666ef056'}
+  - {seq: 6, filename: KR4a0001_006-tls.yaml, hash: 'sha256:142e981be93eabd40409fb80b42c4800e08f722873326c3a78b76ea0d4e51cc2'}
+  - {seq: 7, filename: KR4a0001_007-tls.yaml, hash: 'sha256:ea8b3e26c28d4620be27e15e5bbd5469e504301d8b5251139974627ce5d78a43'}
+  - {seq: 8, filename: KR4a0001_008-tls.yaml, hash: 'sha256:cf8e3dee1c1faa47327b2b7269ff32870dd7c8f0c9fb92c1af1872fa65029764'}
+  - {seq: 9, filename: KR4a0001_009-tls.yaml, hash: 'sha256:e6c0d4b550ed2f4a6d3269db439a2e9df656c8a5079f0193de0c81daf5cc5792'}
+  - {seq: 10, filename: KR4a0001_010-tls.yaml, hash: 'sha256:6e0f53bd924c3ae72dc1dba5e0640116ff76c6defe192370cef451a28614dfe0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4a0001_001-tls.markers.yaml, hash: 'sha256:a8459ac4483271e28c970cf0322195efeae66f83c3c4c829ac6674ad93946cbf'}
+  - {seq: 2, role: markers, filename: assets/KR4a0001_002-tls.markers.yaml, hash: 'sha256:1d1190712c960ff860a25d502ea9ecb308717450d57425b12d96a143367306fe'}
+  - {seq: 3, role: markers, filename: assets/KR4a0001_003-tls.markers.yaml, hash: 'sha256:ab0502483e899537b006cde1d28945e2290f96a8c6b66d565bf3af78b6cd30b4'}
+  - {seq: 4, role: markers, filename: assets/KR4a0001_004-tls.markers.yaml, hash: 'sha256:55b37e190eb5c7e3f91d0adfc2d7537e63ed4bd0593079a77bc15ce972c66072'}
+  - {seq: 5, role: markers, filename: assets/KR4a0001_005-tls.markers.yaml, hash: 'sha256:9b35cc3c2739a137840e50f66c4b889a1afce23140f0e4e358f45b6932a983b7'}
+  - {seq: 6, role: markers, filename: assets/KR4a0001_006-tls.markers.yaml, hash: 'sha256:34aaf996715527d12cff03852064ad61de4233cbba0c78c7128e2678bbe1e4c6'}
+  - {seq: 7, role: markers, filename: assets/KR4a0001_007-tls.markers.yaml, hash: 'sha256:7e572b5e10ff01258a6d1b5a45a10337d9b60cd2f0e9772081c77143b8769589'}
+  - {seq: 8, role: markers, filename: assets/KR4a0001_008-tls.markers.yaml, hash: 'sha256:d160c6d322eb6b79f508b9f278687a61d739cfbc06b861b08daf4c66d3d4e041'}
+  - {seq: 9, role: markers, filename: assets/KR4a0001_009-tls.markers.yaml, hash: 'sha256:2f582bcd5ee88ff75e9546ada6b7e7b24a6abaac8bc3141b01d42950ddc1f7b1'}
+  - {seq: 10, role: markers, filename: assets/KR4a0001_010-tls.markers.yaml, hash: 'sha256:0da37ddfedead11034f043b7a92e770a7b571fa4e0f4a6966b6b794896b413df'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4a0001_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 2489
+  label: 離騷經
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4a0001_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 離騷經
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4a0001_tls_002-2a.1-h
+    span:
+    - body
+    - 0
+    - 1598
+  label: 九歌
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4a0001_tls_002-2a.1-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 九歌
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4a0001_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 1567
+  label: 天問
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4a0001_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 天問
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4a0001_tls_004-2a.1-h
+    span:
+    - body
+    - 0
+    - 4100
+  label: 九章
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4a0001_tls_004-2a.1-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 九章
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4a0001_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 1140
+  label: 遠遊
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4a0001_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 遠遊
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4a0001_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 321
+  label: 卜居
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4a0001_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 卜居
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4a0001_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 212
+  label: 漁父
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4a0001_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 漁父
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4a0001_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 1748
+  label: 九辯
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR4a0001_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 九辯
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR4a0001_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 1206
+  label: 招魂
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR4a0001_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 招魂
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR4a0001_tls_010-1a.3-h
+    span:
+    - body
+    - 0
+    - 890
+  label: 大招
+  type: section
+  level: 1
+hash: sha256:0c5cadc4ea68778303e46c30a626a16f00a487d63d2db2e6c678a9a5c54cef78

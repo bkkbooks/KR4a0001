@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4a0001/tls/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 漁父屈原既放游於江潭行吟澤畔顏色憔悴形容枯槁漁父見而問之曰子非三閭大夫與何故至於斯屈原曰舉世皆濁我獨清眾人皆醉我獨醒是以見放漁父曰聖人不凝滯於物而能與世推移世人皆濁何不淈其泥而揚其波眾人皆醉何不餔其糟而歠其釃何故深思高舉自令放為屈原曰吾聞之新沐者必彈冠新浴者必振衣安能以身之察察受物之汶汶者乎寧赴湘流葬於江魚之腹中安能以皓皓之白而蒙世俗之塵埃乎漁父莞爾而笑鼓枻而去歌曰滄浪之水清兮可以濯吾纓滄浪之水濁兮可以濯吾足遂去不復與言
+  hash: sha256:97803abe029ee844f7da934e8ee88192dde0fddab44afe4a909a05ae13b28e9a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4a0001_tls_007-1a.3-h}
+metadata:
+  title: 楚辭
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR4a0001.xml
+hash: sha256:ea8b3e26c28d4620be27e15e5bbd5469e504301d8b5251139974627ce5d78a43
